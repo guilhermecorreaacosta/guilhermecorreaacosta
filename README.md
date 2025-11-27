@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Corrêa!
+# 👋 Olá, eu sou o Guilherme Acosta!
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas**, com sólida formação técnica em informática e cursos profissionalizantes de **Front-End** e **Back-End**. Experiência prática em projetos de tecnologia e criação de soluções digitais, com sólida formação técnica em informática e cursos profissionalizantes de programação, atuando com **Java** e **Python**. Apaixonado por **tecnologia**, com perfil criativo e foco na resolução de problemas. Busco uma oportunidade que contribua para meu crescimento profissional e ajude a me tornar um desenvolvedor de alto nível, por meio de aprendizado constante.
 
