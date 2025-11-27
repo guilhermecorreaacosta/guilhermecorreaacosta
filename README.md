@@ -43,9 +43,9 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas**, com sólida form
 
 | Curso | Instituição | Situação | 
 |:------|:-------------|:----------|
+| **Back End com Java & AWS** | DIO | 🔄 Em andamento |
 | **Desenvolvedor de Back-End** | SENAI | ✔️ Concluído |
 | **Desenvolvedor de Front-End** | SENAI | ✔️ Concluído |
-| **Fundamentos de .NET** | DIO | 🔄 Em andamento |
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
