@@ -1,6 +1,12 @@
-# 👋 Olá, eu sou o Guilherme Acosta!
+## 👋 Olá, eu sou o Guilherme Acosta!
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas**, com sólida formação técnica em informática e cursos profissionalizantes de **Front-End** e **Back-End**. Experiência prática em projetos de tecnologia e criação de soluções digitais, com sólida formação técnica em informática e cursos profissionalizantes de programação, atuando com **Java** e **Python**. Apaixonado por **tecnologia**, com perfil criativo e foco na resolução de problemas. Busco uma oportunidade que contribua para meu crescimento profissional e ajude a me tornar um desenvolvedor de alto nível, por meio de aprendizado constante.
+
+Sou desenvolvedor de software em início de carreira, atualmente focado no aprendizado e desenvolvimento de soluções utilizando a **plataforma .NET**, com ênfase em **C#, SQL Server** e boas práticas de desenvolvimento backend.
+
+Atualmente faço parte da **Patmos Tecnologia**, onde estou me dedicando a aprender novas ferramentas, padrões de projeto e conceitos fundamentais do ecossistema Microsoft, sempre com foco em evolução constante e aprendizado prático no ambiente corporativo.
+
+Tenho interesse em desenvolvimento de software, organização de código e construção de soluções bem estruturadas, buscando consolidar uma base sólida para minha carreira como desenvolvedor.
+
 
 ---
 
@@ -43,7 +49,6 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas**, com sólida form
 
 | Curso | Instituição | Situação | 
 |:------|:-------------|:----------|
-| **Back End com Java & AWS** | DIO | 🔄 Em andamento |
 | **Desenvolvedor de Back-End** | SENAI | ✔️ Concluído |
 | **Desenvolvedor de Front-End** | SENAI | ✔️ Concluído |
 
